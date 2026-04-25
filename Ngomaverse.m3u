@@ -338,6 +338,15 @@ http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/354
 #EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-name="Sport TV+ PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg" group-title="体育竞技 - 欧洲",Sport TV+ PT
 http://kstv.us:8080/4VUyfZBQzk/95104974615/48501
 
+# === FR FR (France) ===
+
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+ HD" group-title="ESPORTES",CANAL+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" tvg-name="CANAL+ SPORT HD" group-title="ESPORTES",CANAL+ SPORT HD
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1, tvg-id="Eurosport1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Eurosport_1_2022.png/500px-Eurosport_1_2022.png" tvg-name="EUROSPORT 1 HD" group-title="ESPORTES",EUROSPORT 1 HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+
 # === 🇬🇷 GR (Grèce) ===
 
 #EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 GR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="体育竞技 - 欧洲",Cosmote Sport 1 GR
